@@ -1,7 +1,7 @@
 Hi 👋 My name is Yunus Adebayo
 ==============================
 
-Frontend developer
+Software developer
 ------------------
 
 Hi, I'm Yunus. I'm a web developer with experience in creating user interfaces for web applications and websites. Over the years I find it really fun and challenging working on side projects which entails building user interfaces from scratch using modern technologies like HTML, CSS, JavaScript, and also frameworks like React JavaScript 🤓.
